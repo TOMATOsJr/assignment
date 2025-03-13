@@ -3,7 +3,7 @@
 void mov_arr2(long* arr, long n);
 // {
 //     if(n<2)
-//      return:
+//      return
 //     long i1 = arr[n-2];
 //     long i2 = arr[n-1];
 
